@@ -8,5 +8,5 @@ dependencies:
   - r-remotes
   - r-BiocManager
 BiocManager: 
-  - UCLouvain-CBIO/rWSBIM1322\
+  - UCLouvain-CBIO/rWSBIM1322
   
