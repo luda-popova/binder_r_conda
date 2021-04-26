@@ -8,6 +8,6 @@ dependencies:
   - r-biocmanager
   - r-remotes
   - bioconductor-Hiiragi2013
-  - bioconductor-biocManager
+  - bioconductor-biocinstaller
   - biocManager: 
     - UCLouvain-CBIO/rWSBIM1322
