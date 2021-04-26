@@ -7,8 +7,6 @@ dependencies:
   - r-ggplot2
   - r-remotes
   - r-BiocManager
-  #- bioconductor-Hiiragi2013
-  #- bioconductor-biocinstaller 
 BiocManager: 
-  #- UCLouvain-CBIO/rWSBIM1322\
-  - rWSBIM1322
+  - UCLouvain-CBIO/rWSBIM1322\
+  
