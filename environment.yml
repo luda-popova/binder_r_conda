@@ -8,4 +8,4 @@ dependencies:
   - r-biocmanager
   - r-remotes
   - bioconductor-Hiiragi2013
-  - bioconductor-UCLouvain-CBIO/rWSBIM1322
+  - UCLouvain-CBIO/rWSBIM1322
