@@ -7,4 +7,4 @@ dependencies:
   - r-ggplot2
   - r-biocmanager
   - bioconductor-Hiiragi2013
-  - bioconductor-rWSBIM1322
+  - bioconductor-UCLouvain-CBIO/rWSBIM1322
