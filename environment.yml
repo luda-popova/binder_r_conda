@@ -10,5 +10,5 @@ dependencies:
 #BiocManager: 
  # - UCLouvain-CBIO/rWSBIM1322
 remotes::install_github:
-   - UCLouvain-CBIO/rWSBIM1322
+  - UCLouvain-CBIO/rWSBIM1322
 
