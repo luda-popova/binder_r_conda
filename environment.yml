@@ -7,7 +7,9 @@ dependencies:
   - r-ggplot2
   - r-remotes
   - r-BiocManager
-  - r-Hiiragi2013
+  - bioconductor-Hiiragi2013
+  - BiocManager-UCLouvain-CBIO/rWSBIM1322
 #remotes::install_github:
+
 #  - UCLouvain-CBIO/rWSBIM1322
 
