@@ -1,14 +1,7 @@
 channels:
-  - bioconda
   - conda-forge
 dependencies:
   - r-base=4.0
   - r-tidyverse
   - r-ggplot2
-  - r-remotes
-  - r-BiocManager
-  - BiocManager-UCLouvain-CBIO/rWSBIM1322
-#remotes::install_github:
-
-#  - UCLouvain-CBIO/rWSBIM1322
-
+ 
