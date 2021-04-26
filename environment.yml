@@ -6,5 +6,6 @@ dependencies:
   - r-tidyverse
   - r-ggplot2
   - r-biocmanager
+  - r-remotes
   - bioconductor-Hiiragi2013
-  - UCLouvain-CBIO/rWSBIM1322
+  - bioconductor-UCLouvain-CBIO/rWSBIM1322
